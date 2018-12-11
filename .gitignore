@@ -1,6 +1,9 @@
 #AoC input files
 *input*.txt
 
+#rust cargo lock
+Cargo.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
